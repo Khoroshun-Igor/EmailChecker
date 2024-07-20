@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Email">Email</string>
+    <string name="Check">Check</string>
+    <string name="deliverable">deliverable</string>
+    <string name="undeliverable">undeliverable</string>
+    <string name="risky">risky</string>
+    <string name="error">error</string>
+    <string name="invalid_email">invalid_email</string>
+    <string name="invalid_domain">invalid_domain</string>
+    <string name="rejected_email">rejected_email</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="unknown">unknown</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="valid_email">valid email</string>
+    <string name="status">Status:</string>
+    <string name="reason">Reason:</string>
+    <string name="did_you_mean">Did you mean:</string>
+    <string name="invalid_email_reason"> doesn’t have a valid email address syntax.</string>
+    <string name="invalid_domain_reason"> for email does not exist or has no valid DNS records.</string>
+    <string name="does_not_exist"> does not exist.</string>
+</resources>
